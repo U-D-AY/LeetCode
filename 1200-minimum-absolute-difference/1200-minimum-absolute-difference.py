@@ -1,14 +1,16 @@
-from collections import defaultdict
-
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
         arr.sort()
-        look_up = defaultdict(list)
+        res = []
         m = float('inf')
+
         for i in range(1, len(arr)):
-            x = arr[i] - arr[i - 1]
-            if x <= m:
-                look_up[x].append([arr[i - 1], arr[i]])
-                m = x
+            x, y = arr[i-1], arr[i]
+            z = y - x
+            if z < m:
+                res = [[x, y]]
+                m = z
+            elif z == m:
+                res.append([x, y])
         
-        return look_up[m]
+        return res
