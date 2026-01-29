@@ -18,5 +18,5 @@ class Solution:
             else:
                 st.append(int(i))
         
-        return st[0]
+        return st.pop()
             
