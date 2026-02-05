@@ -1,0 +1,8 @@
+select 
+max(salary) as SecondHIghestSalary
+from employee  
+where salary < 
+(select 
+max(salary) 
+from 
+employee)
