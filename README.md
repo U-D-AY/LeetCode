@@ -15,4 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/U-D-AY/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/U-D-AY/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
