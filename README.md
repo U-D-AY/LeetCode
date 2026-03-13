@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/U-D-AY/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/U-D-AY/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/U-D-AY/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
