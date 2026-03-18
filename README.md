@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/U-D-AY/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/U-D-AY/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/U-D-AY/LeetCode/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/U-D-AY/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
