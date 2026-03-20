@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/U-D-AY/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/U-D-AY/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/U-D-AY/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/U-D-AY/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
