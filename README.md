@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/U-D-AY/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/U-D-AY/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/U-D-AY/LeetCode/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/U-D-AY/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
