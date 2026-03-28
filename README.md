@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/U-D-AY/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/U-D-AY/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/U-D-AY/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1148-article-views-i](https://github.com/U-D-AY/LeetCode/tree/main/1148-article-views-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
