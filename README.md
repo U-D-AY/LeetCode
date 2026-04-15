@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/U-D-AY/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/U-D-AY/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/U-D-AY/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/U-D-AY/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/U-D-AY/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Stack
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
