@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1587-bank-account-summary-ii](https://github.com/U-D-AY/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/U-D-AY/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/U-D-AY/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1683-invalid-tweets](https://github.com/U-D-AY/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
