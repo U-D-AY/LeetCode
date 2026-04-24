@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/U-D-AY/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2615-sum-of-distances](https://github.com/U-D-AY/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/U-D-AY/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
