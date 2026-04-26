@@ -40,10 +40,10 @@ class Solution:
                         id1 = r * cols + c
                         id2 = nr * cols + nc
                         # only happen if its has a circle
-                        if find(id1) == find(id2):
+                        if not union(id1, id2):
                             return True
                         
-                        union(id1, id2)
+
         
         return False
                         
