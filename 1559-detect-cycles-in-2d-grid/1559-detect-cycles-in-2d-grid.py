@@ -8,12 +8,10 @@ class Solution:
         rank = [0] * (rows * cols)
 
         def find(idx):
-            # if idx parent is itself return idx
-            if parent[idx] == idx:
-                return idx
-            # path compression 
-            parent[idx] = find(parent[idx])
-            return parent[idx]
+            while parent[idx] != idx:
+                parent[idx] = parent[parent[idx]]  # path halving
+                idx = parent[idx]
+            return idx
         
         def union(x, y):
             # finding parents of x & y
@@ -42,8 +40,6 @@ class Solution:
                         # only happen if its has a circle
                         if not union(id1, id2):
                             return True
-                        
-
         
         return False
                         
