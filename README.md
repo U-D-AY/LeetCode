@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/U-D-AY/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/U-D-AY/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/U-D-AY/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/U-D-AY/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
