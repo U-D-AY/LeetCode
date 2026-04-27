@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/U-D-AY/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/U-D-AY/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/U-D-AY/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/U-D-AY/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/U-D-AY/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/U-D-AY/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/U-D-AY/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/U-D-AY/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/U-D-AY/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
