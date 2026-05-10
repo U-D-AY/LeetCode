@@ -1,9 +1,9 @@
 select s.student_id, s.student_name, sub.subject_name, 
 count(e.student_id) as attended_exams
-FROM Students s
-JOIN Subjects sub
-LEFT JOIN Examinations e 
-    ON s.student_id = e.student_id 
-    AND sub.subject_name = e.subject_name
-GROUP BY s.student_id, s.student_name, sub.subject_name
-order by  s.student_id, student_name
+from students s  join subjects sub 
+left join examinations e
+on s.student_id = e.student_id
+and sub.subject_name = e.subject_name
+group by s.student_id, s.student_name, sub.subject_name
+order by student_id, student_name
+
