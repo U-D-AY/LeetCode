@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/U-D-AY/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/U-D-AY/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/U-D-AY/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/U-D-AY/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/U-D-AY/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/U-D-AY/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
