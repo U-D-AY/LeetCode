@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/U-D-AY/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/U-D-AY/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/U-D-AY/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/U-D-AY/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/U-D-AY/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/U-D-AY/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -159,12 +160,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/U-D-AY/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/U-D-AY/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/U-D-AY/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/U-D-AY/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,9 +247,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/U-D-AY/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
