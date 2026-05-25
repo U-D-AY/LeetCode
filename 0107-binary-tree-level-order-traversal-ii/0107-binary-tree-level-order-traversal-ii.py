@@ -9,7 +9,7 @@ class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root: return []
         que = deque([root])
-        res = deque([])
+        res = []
         while que:
             l = []
             for _ in range(len(que)):
@@ -19,6 +19,6 @@ class Solution:
                 if x.right:
                     que.append(x.right)
                 l.append(x.val)
-            if l : res.appendleft(l)
-        return list(res)
+            res.append(l)
+        return res[::-1]
 
