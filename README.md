@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/U-D-AY/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/U-D-AY/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/U-D-AY/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/U-D-AY/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/U-D-AY/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/U-D-AY/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/U-D-AY/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/U-D-AY/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/U-D-AY/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
