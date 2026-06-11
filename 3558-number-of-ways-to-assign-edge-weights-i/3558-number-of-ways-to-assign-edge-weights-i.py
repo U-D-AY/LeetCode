@@ -3,8 +3,10 @@ class Solution:
     def assignEdgeWeights(self, edges: List[List[int]]) -> int:
         d = defaultdict(list)
         for i, j in edges:
-            d[i].append(j)
-            d[j].append(i)
+            if i<j:
+                d[i].append(j)
+            else:
+                d[j].append(i)
 
         dq = deque([(1, 0)])
         v = {1}
