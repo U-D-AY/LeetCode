@@ -34,6 +34,6 @@ class Solution:
             t = t.next
             t2 = t2.next
 
-        reverse(t1)
+        # reverse(t1)
 
         return m
