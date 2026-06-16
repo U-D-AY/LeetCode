@@ -4,28 +4,52 @@ import java.util.Collections;
 class Solution {
     public String processStr(String s) {
         
-        ArrayList<Character> arr = new ArrayList<>();
-
-        for(int i=0; i < s.length(); i++){
-            char j = s.charAt(i);
-            if(Character.isLowerCase(j))
-                arr.add(j);
-            else if(j == '*'){
-                if(!arr.isEmpty())
-                    arr.remove(arr.size()-1);
-            }
-            else if(j == '#')
-                arr.addAll(arr);
-            else if(j == '%')
-                Collections.reverse(arr);
-        }
-        
         StringBuilder sb = new StringBuilder();
-        for(char ch:arr)
-            sb.append(ch);
+
+        int l = s.length();
+        for(int i=0; i<l; i++){
+            char j  = s.charAt(i);
+
+            if(Character.isLowerCase(j))
+                sb.append(j);
+
+            else if(j == '*'){
+                if(!sb.isEmpty())
+                    sb.deleteCharAt(sb.length() - 1);
+            }
+
+            else if(j == '#')                
+                sb.append(sb.toString());
+
+            else if(j == '%')
+                sb.reverse();
+                
+        }
+
+        return sb.toString();
+        // ArrayList<Character> arr = new ArrayList<>();
+
+        // for(int i=0; i < s.length(); i++){
+        //     char j = s.charAt(i);
+        //     if(Character.isLowerCase(j))
+        //         arr.add(j);
+        //     else if(j == '*'){
+        //         if(!arr.isEmpty())
+        //             arr.remove(arr.size()-1);
+        //     }
+        //     else if(j == '#')
+        //         arr.addAll(arr);
+        //     else if(j == '%')
+        //         Collections.reverse(arr);
+        // }
         
-        String r = sb.toString();
+        // StringBuilder sb = new StringBuilder();
+        // for(char ch:arr)
+        //     sb.append(ch);
         
-        return r;
+        // String r = sb.toString();
+        
+        // return r;
+
     }
 }
