@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/U-D-AY/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -329,8 +331,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/U-D-AY/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/U-D-AY/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
