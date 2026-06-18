@@ -1,8 +1,5 @@
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
-
-        m = minutes / 5
-        h = (hour + minutes/60)
-        y = abs(m - h)
+        y = abs((minutes / 5) - (hour + minutes/60))
 
         return 30 * min(y, 12 - y)
