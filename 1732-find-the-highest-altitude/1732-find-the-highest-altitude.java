@@ -6,6 +6,7 @@ class Solution {
             s += i;
             if(s>high) high = s;
         }
+        System.gc();
         return high;
     }
 }
