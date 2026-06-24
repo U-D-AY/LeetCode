@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/U-D-AY/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/U-D-AY/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/U-D-AY/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/U-D-AY/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/U-D-AY/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/U-D-AY/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/U-D-AY/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/U-D-AY/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
