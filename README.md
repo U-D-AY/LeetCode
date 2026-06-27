@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/U-D-AY/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/U-D-AY/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/U-D-AY/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/U-D-AY/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/U-D-AY/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/U-D-AY/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/U-D-AY/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/U-D-AY/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
