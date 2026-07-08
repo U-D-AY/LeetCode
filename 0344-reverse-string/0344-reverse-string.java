@@ -4,7 +4,7 @@ class Solution {
         int right = s.length - 1;
         
         while (left < right) {
-            // Modify the existing array elements directly
+            
             char temp = s[left];
             s[left] = s[right];
             s[right] = temp;
