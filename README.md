@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/U-D-AY/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/U-D-AY/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/U-D-AY/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/U-D-AY/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/U-D-AY/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/U-D-AY/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
