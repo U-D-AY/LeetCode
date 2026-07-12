@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/U-D-AY/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/U-D-AY/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/U-D-AY/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/U-D-AY/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/U-D-AY/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/U-D-AY/LeetCode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/U-D-AY/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/U-D-AY/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/U-D-AY/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/U-D-AY/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/U-D-AY/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/U-D-AY/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/U-D-AY/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/U-D-AY/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/U-D-AY/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/U-D-AY/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/U-D-AY/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
