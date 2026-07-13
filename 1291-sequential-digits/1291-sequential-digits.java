@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<Integer> sequentialDigits(int low, int high) {
+        List<Integer> result = new ArrayList<>();
+        String digits = "123456789";
+        
+        // Loop through all possible lengths of numbers (from 2 digits up to 9 digits)
+        for (int length = 2; length <= 9; length++) {
+            // Slide across the "123456789" string
+            for (int start = 0; start <= 9 - length; start++) {
+                // Get the sequential substring
+                String sub = digits.substring(start, start + length);
+                int num = Integer.parseInt(sub); // String to int conversion!
+                
+                // If it fits inside our boundaries, add it to the list
+                if (num >= low && num <= high) {
+                    result.add(num);
+                }
+            }
+        }
+        
+        return result;
+    }
+}
