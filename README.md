@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/U-D-AY/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/U-D-AY/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/U-D-AY/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/U-D-AY/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/U-D-AY/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/U-D-AY/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/U-D-AY/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/U-D-AY/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/U-D-AY/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/U-D-AY/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/U-D-AY/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
