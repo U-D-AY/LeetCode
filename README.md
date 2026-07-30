@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/U-D-AY/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/U-D-AY/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/U-D-AY/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/U-D-AY/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/U-D-AY/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/U-D-AY/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/U-D-AY/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/U-D-AY/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/U-D-AY/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/U-D-AY/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/U-D-AY/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/U-D-AY/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/U-D-AY/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/U-D-AY/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/U-D-AY/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/U-D-AY/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/U-D-AY/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/U-D-AY/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
