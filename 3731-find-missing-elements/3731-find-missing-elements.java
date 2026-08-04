@@ -13,8 +13,7 @@ class Solution {
 
             if(end < i) end = i;
         }
-
-        System.out.println(st+" "+end);
+        
         List<Integer> res = new ArrayList<>();
 
         for(int i = st; i<=end;i++)
