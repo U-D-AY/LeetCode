@@ -9,14 +9,13 @@ class Solution {
 
             arr[i]+=1;
 
-            if(i < st) st = i;
-
-            if(end < i) end = i;
+            st = Math.min(i, st);
+            end = Math.max(i, end);
         }
-        
+
         List<Integer> res = new ArrayList<>();
 
-        for(int i = st; i<=end;i++)
+        for(int i = st+1; i<=end-1;i++)
             if(arr[i]==0)
                 res.add(i);
 
