@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/U-D-AY/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/U-D-AY/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/U-D-AY/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/U-D-AY/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/U-D-AY/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/U-D-AY/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/U-D-AY/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/U-D-AY/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/U-D-AY/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/U-D-AY/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/U-D-AY/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/U-D-AY/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/U-D-AY/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/U-D-AY/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/U-D-AY/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/U-D-AY/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/U-D-AY/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/U-D-AY/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/U-D-AY/LeetCode/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
