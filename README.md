@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/U-D-AY/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/U-D-AY/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/U-D-AY/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
