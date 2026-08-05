@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/U-D-AY/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/U-D-AY/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/U-D-AY/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/U-D-AY/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/U-D-AY/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/U-D-AY/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/U-D-AY/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/U-D-AY/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/U-D-AY/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/U-D-AY/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/U-D-AY/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/U-D-AY/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
