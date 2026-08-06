@@ -8,13 +8,10 @@ class Solution {
     }
     private int getProduct(int n){
         
-        int product = 1;
-        int temp = n;
-        int d = 0;        
-        while(temp>0){
-            d = temp % 10;
-            product *= d;
-            temp /= 10;
+        int product = 1;     
+        while(n>0){
+            product *= (n%10);
+            n /= 10;
         }
 
         return product;
