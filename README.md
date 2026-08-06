@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/U-D-AY/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/U-D-AY/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/U-D-AY/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/U-D-AY/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/U-D-AY/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/U-D-AY/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/U-D-AY/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/U-D-AY/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/U-D-AY/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/U-D-AY/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/U-D-AY/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
