@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/U-D-AY/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/U-D-AY/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/U-D-AY/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/U-D-AY/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/U-D-AY/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/U-D-AY/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/U-D-AY/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/U-D-AY/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/U-D-AY/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/U-D-AY/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/U-D-AY/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/U-D-AY/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/U-D-AY/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/U-D-AY/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/U-D-AY/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/U-D-AY/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -476,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/U-D-AY/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/U-D-AY/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
