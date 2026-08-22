@@ -4,7 +4,7 @@ class Solution {
 
         int num = n;
         int sum = 0;
-        long product = 1;
+        int product = 1;
         int d = 0;
         while(num>0){
             d = num%10;
