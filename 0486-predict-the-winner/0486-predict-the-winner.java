@@ -10,7 +10,7 @@ class Solution {
         if (l>r) return 0;
         if (l==r) return nums[l];
 
-        if(dp[r][l] != null) return dp[r][l];
+        if(dp[l][r] != null) return dp[l][r];
 
         int x = nums[l] - calculateStuff(nums, l+1, r);
         int y = nums[r] - calculateStuff(nums, l, r-1);
