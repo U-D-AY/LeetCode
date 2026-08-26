@@ -29,7 +29,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.toString(arr)+" " + x + " "+ y );
+
         return s.substring(arr[x], arr[y] + 1);
 
     }
