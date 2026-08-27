@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/U-D-AY/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/U-D-AY/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/U-D-AY/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/U-D-AY/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/U-D-AY/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/U-D-AY/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/U-D-AY/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/U-D-AY/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/U-D-AY/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/U-D-AY/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,8 +556,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
