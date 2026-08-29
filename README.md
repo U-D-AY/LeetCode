@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/U-D-AY/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/U-D-AY/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/U-D-AY/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/U-D-AY/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/U-D-AY/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/U-D-AY/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/U-D-AY/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/U-D-AY/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/U-D-AY/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/U-D-AY/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/U-D-AY/LeetCode/tree/main/0788-rotated-digits/) | Medium |
