@@ -7,7 +7,8 @@ class Solution {
         int j = 0;
         int id = 0;
 
-        for(char c:s.toCharArray()){
+        for(int i=0; i<s.length(); i++){
+            char c = s.charAt(i);
             counter[c - 'a']++;
             if(counter[c - 'a'] == 1){
                 order[id] = c;
