@@ -2,8 +2,6 @@ class Solution {
     public int firstUniqChar(String s) {
         int[] counter = new int[26];
 
-        HashSet<Character> set = new HashSet<>();
-
         char[] order = new  char[26];
         int[] idx = new int[26];
         int j = 0;
@@ -11,7 +9,7 @@ class Solution {
 
         for(char c:s.toCharArray()){
             counter[c - 'a']++;
-            if(set.add(c)){
+            if(counter[c - 'a'] == 1){
                 order[id] = c;
                 idx[id++] = j;
             }
