@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/U-D-AY/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/U-D-AY/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
