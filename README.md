@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/U-D-AY/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/U-D-AY/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/U-D-AY/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/U-D-AY/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/U-D-AY/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/U-D-AY/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/U-D-AY/LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/U-D-AY/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/U-D-AY/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/U-D-AY/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/U-D-AY/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
