@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/U-D-AY/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/U-D-AY/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0414-third-maximum-number](https://github.com/U-D-AY/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/U-D-AY/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/U-D-AY/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/U-D-AY/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/U-D-AY/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/U-D-AY/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/U-D-AY/LeetCode/tree/main/1051-height-checker/) | Easy |
