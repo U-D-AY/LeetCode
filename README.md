@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/U-D-AY/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/U-D-AY/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/U-D-AY/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/U-D-AY/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
