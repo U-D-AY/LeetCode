@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/U-D-AY/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/U-D-AY/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/U-D-AY/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/U-D-AY/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/U-D-AY/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/U-D-AY/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/U-D-AY/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/U-D-AY/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/U-D-AY/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/U-D-AY/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/U-D-AY/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/U-D-AY/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/U-D-AY/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/U-D-AY/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/U-D-AY/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/U-D-AY/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/U-D-AY/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Segment Tree
