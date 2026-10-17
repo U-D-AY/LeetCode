@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/U-D-AY/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/U-D-AY/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/U-D-AY/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/U-D-AY/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/U-D-AY/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/U-D-AY/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/U-D-AY/LeetCode/tree/main/0263-ugly-number/) | Easy |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/U-D-AY/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/U-D-AY/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/U-D-AY/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/U-D-AY/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/U-D-AY/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -653,4 +655,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/U-D-AY/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/U-D-AY/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
