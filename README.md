@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/U-D-AY/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/U-D-AY/LeetCode/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/U-D-AY/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/U-D-AY/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/U-D-AY/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/U-D-AY/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/U-D-AY/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/U-D-AY/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/U-D-AY/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/U-D-AY/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/U-D-AY/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0486-predict-the-winner](https://github.com/U-D-AY/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/U-D-AY/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/U-D-AY/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/U-D-AY/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/U-D-AY/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/U-D-AY/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/U-D-AY/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/U-D-AY/LeetCode/tree/main/0709-to-lower-case/) | Easy |
